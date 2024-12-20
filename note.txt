@@ -1,0 +1,2 @@
+change db connected from connect folder // file connectmanager
+user admin pass 1
